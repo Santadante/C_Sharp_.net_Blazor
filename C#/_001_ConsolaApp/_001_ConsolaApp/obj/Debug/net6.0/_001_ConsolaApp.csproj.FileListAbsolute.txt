@@ -1,0 +1,15 @@
+C:\Users\santa\Desktop\otros\programacion\C#\C#.NET\C_Sharp_.net_Blazor\C#\_001_ConsolaApp\_001_ConsolaApp\bin\Debug\net6.0\_001_ConsolaApp.exe
+C:\Users\santa\Desktop\otros\programacion\C#\C#.NET\C_Sharp_.net_Blazor\C#\_001_ConsolaApp\_001_ConsolaApp\bin\Debug\net6.0\_001_ConsolaApp.deps.json
+C:\Users\santa\Desktop\otros\programacion\C#\C#.NET\C_Sharp_.net_Blazor\C#\_001_ConsolaApp\_001_ConsolaApp\bin\Debug\net6.0\_001_ConsolaApp.runtimeconfig.json
+C:\Users\santa\Desktop\otros\programacion\C#\C#.NET\C_Sharp_.net_Blazor\C#\_001_ConsolaApp\_001_ConsolaApp\bin\Debug\net6.0\_001_ConsolaApp.dll
+C:\Users\santa\Desktop\otros\programacion\C#\C#.NET\C_Sharp_.net_Blazor\C#\_001_ConsolaApp\_001_ConsolaApp\bin\Debug\net6.0\_001_ConsolaApp.pdb
+C:\Users\santa\Desktop\otros\programacion\C#\C#.NET\C_Sharp_.net_Blazor\C#\_001_ConsolaApp\_001_ConsolaApp\obj\Debug\net6.0\_001_ConsolaApp.csproj.AssemblyReference.cache
+C:\Users\santa\Desktop\otros\programacion\C#\C#.NET\C_Sharp_.net_Blazor\C#\_001_ConsolaApp\_001_ConsolaApp\obj\Debug\net6.0\_001_ConsolaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santa\Desktop\otros\programacion\C#\C#.NET\C_Sharp_.net_Blazor\C#\_001_ConsolaApp\_001_ConsolaApp\obj\Debug\net6.0\_001_ConsolaApp.AssemblyInfoInputs.cache
+C:\Users\santa\Desktop\otros\programacion\C#\C#.NET\C_Sharp_.net_Blazor\C#\_001_ConsolaApp\_001_ConsolaApp\obj\Debug\net6.0\_001_ConsolaApp.AssemblyInfo.cs
+C:\Users\santa\Desktop\otros\programacion\C#\C#.NET\C_Sharp_.net_Blazor\C#\_001_ConsolaApp\_001_ConsolaApp\obj\Debug\net6.0\_001_ConsolaApp.csproj.CoreCompileInputs.cache
+C:\Users\santa\Desktop\otros\programacion\C#\C#.NET\C_Sharp_.net_Blazor\C#\_001_ConsolaApp\_001_ConsolaApp\obj\Debug\net6.0\_001_ConsolaApp.dll
+C:\Users\santa\Desktop\otros\programacion\C#\C#.NET\C_Sharp_.net_Blazor\C#\_001_ConsolaApp\_001_ConsolaApp\obj\Debug\net6.0\refint\_001_ConsolaApp.dll
+C:\Users\santa\Desktop\otros\programacion\C#\C#.NET\C_Sharp_.net_Blazor\C#\_001_ConsolaApp\_001_ConsolaApp\obj\Debug\net6.0\_001_ConsolaApp.pdb
+C:\Users\santa\Desktop\otros\programacion\C#\C#.NET\C_Sharp_.net_Blazor\C#\_001_ConsolaApp\_001_ConsolaApp\obj\Debug\net6.0\_001_ConsolaApp.genruntimeconfig.cache
+C:\Users\santa\Desktop\otros\programacion\C#\C#.NET\C_Sharp_.net_Blazor\C#\_001_ConsolaApp\_001_ConsolaApp\obj\Debug\net6.0\ref\_001_ConsolaApp.dll
